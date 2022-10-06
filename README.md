@@ -8,7 +8,7 @@ Auroreqoi (she/her) here,
    - Learned Basics thanks to Zenva
    - Learn real stuff thanks to **Le Wagon**
      - Ruby, SQL, HTML, CSS, JSS, Stimulus, Rails
-  - Learning React on my own
+  - Learning Java & Angular on my own
 
  2. About me
    - :baguette_bread: Currently in France open to move elsewhere
