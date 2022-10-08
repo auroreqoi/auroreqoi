@@ -7,7 +7,7 @@ Auroreqoi (she/her) here,
  1. About code
    - Learned Basics thanks to Zenva
    - Learn real stuff thanks to **Le Wagon**
-     - Ruby, SQL, HTML, CSS, JSS, Stimulus, Rails
+     - Ruby, SQL, HTML, CSS, JS, Stimulus, Rails
   - Learning Java & Angular on my own
 
  2. About me
