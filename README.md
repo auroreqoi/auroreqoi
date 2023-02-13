@@ -8,7 +8,7 @@ Auroreqoi (she/her) here,
    - Learned Basics thanks to Zenva
    - Learn real stuff thanks to **Le Wagon**
      - Ruby, SQL, HTML, CSS, JS, Stimulus, Rails
-  - Learning react & Firebase on my own
+  - Currently reskilling on Java & Angular with Orsys
 
  2. About me
    - :baguette_bread: Currently in France open to move elsewhere
