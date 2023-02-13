@@ -11,7 +11,7 @@ Auroreqoi (she/her) here,
   - Currently reskilling on Java & Angular with Orsys
 
  2. About me
-   - :baguette_bread: Currently in France open to move elsewhere
+   - :baguette_bread: Currently in France
    - ⚡ Know a lot of fact about Seattle (but never been there)
    - :dagger: Mastering too much TTRPG
    - :rainbow_flag: Out & Proud
