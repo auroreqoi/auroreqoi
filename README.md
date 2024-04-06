@@ -2,7 +2,7 @@
 
 Auroreqoi (she/her) here,
  
- New Fullstack Dev on **Ruby on rails**, learning React on my own for now and working on personal project for now.
+ New Front Dev on **Angular**, learning React on my own for now and working on personal project for now.
  
  1. About code
    - Learned Basics thanks to Zenva
