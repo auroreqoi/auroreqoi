@@ -8,8 +8,9 @@ Auroreqoi (she/her) here,
    - Learned Basics thanks to Zenva
    - Learn real stuff thanks to **Le Wagon**
      - Ruby, SQL, HTML, CSS, JS, Stimulus, Rails
-     - Angular, TS, Java, Spring, Springboot
-     - Gdscript
+   - Actually employed but always looking for diffent opportinity
+   - Angular, TS and Accessibility are my main strength
+   - learning Gdscript and Flutter
  2. About me
    - :baguette_bread: Currently in France
    - ⚡ Know a lot of fact about Seattle (but never been there)
